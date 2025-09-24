@@ -5,45 +5,45 @@ const Services = () => {
   const services = [
     {
       icon: Users,
-      title: "Kадровое посредничество",
+      title: "Personalvermittlung",
       description: "Professionelle Personalvermittlung für Ihre Geschäftsanforderungen mit langjähriger Branchenerfahrung.",
       features: [
-        "Poиск и подбор персонала под задачи бизнеса",
-        "Oпыт работы в разных отраслях",
-        "Hадёжные и профессиональные кандидаты"
+        "Suche und Auswahl von Personal für Geschäftsanforderungen",
+        "Erfahrung in verschiedenen Branchen",
+        "Zuverlässige und professionelle Kandidaten"
       ],
       gradient: "bg-gradient-to-br from-blue-500 to-blue-600"
     },
     {
       icon: Package,
-      title: "Продукты и хозяйственные товары",
+      title: "Produkte und Haushaltswaren",
       description: "Zuverlässige Lieferung von Lebensmitteln und Haushaltsprodukten für Unternehmen und Handel.",
       features: [
-        "Поставка продуктов питания для организаций и торговли",
-        "Хозяйственные принадлежности для дома и бизнеса",
+        "Lieferung von Lebensmitteln für Organisationen und Handel",
+        "Haushaltswaren für Zuhause und Geschäft",
         "Flexible Lieferbedingungen und Qualitätsgarantie"
       ],
       gradient: "bg-gradient-to-br from-green-500 to-green-600"
     },
     {
       icon: Stethoscope,
-      title: "Медицинское оборудование",
+      title: "Medizinische Ausrüstung",
       description: "Moderne medizinische Geräte und Diagnosesysteme mit umfassendem Service und Beratung.",
       features: [
-        "Современные диагностические системы: МРТ, КТ",
-        "Лазерные и терапевтические аппараты",
-        "Консультации и сервисное сопровождение"
+        "Moderne Diagnosesysteme: MRT, CT",
+        "Laser- und Therapiegeräte",
+        "Beratung und Service-Unterstützung"
       ],
       gradient: "bg-gradient-to-br from-red-500 to-red-600"
     },
     {
       icon: Building,
-      title: "Строительные материалы",
+      title: "Baumaterialien",
       description: "Hochwertige Baumaterialien für professionelle Bauprojekte mit flexiblen Lieferbedingungen.",
       features: [
-        "Натуральный камень и мрамор",
-        "Бетон для строительных проектов",
-        "Надёжные поставки и гибкие условия"
+        "Naturstein und Marmor",
+        "Beton für Bauprojekte",
+        "Zuverlässige Lieferungen und flexible Bedingungen"
       ],
       gradient: "bg-gradient-to-br from-amber-500 to-amber-600"
     }
